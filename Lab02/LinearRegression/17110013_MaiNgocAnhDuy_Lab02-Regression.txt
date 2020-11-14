@@ -1,0 +1,42 @@
+17110013 - Mai Ngoc Anh Duy
+
+1. Insurance Company Benchmark
+====================================
+MULTIPLE LINEAR REGRESSION
+
+intercept = 0.14485018
+MSE = 1.8376586341162726
+RSS = 7350.63
+
+Code link: https://github.com/duymai1612/machinelearning/blob/master/Lab02/LinearRegression/InsuranceCompanyBenchmark.ipynb
+
+
+====================================
+
+2. Boston House Price Dataset
+
+====================================
+MULTIPLE LINEAR REGRESSION
+
+intercept = 9.8072768
+MSE = 40.5948590608095
+RSS = 20541.00
+
+Code Link: https://github.com/duymai1612/machinelearning/blob/master/Lab02/LinearRegression/BostonHousePriceDataset.ipynb
+
+
+====================================
+
+3. Wine Quality
+
+====================================
+MULTIPLE LINEAR REGRESSION
+
+intercept = -596.73536899
+MSE = 0.3463966638169181
+RSS = 2250.54
+
+Code Link: https://github.com/duymai1612/machinelearning/blob/master/Lab02/LinearRegression/WineQuality.ipynb
+
+
+====================================
